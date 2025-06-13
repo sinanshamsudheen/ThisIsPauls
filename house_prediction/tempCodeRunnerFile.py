@@ -1,0 +1,1 @@
+features = np.array(data['features']).reshape(1, -1)
